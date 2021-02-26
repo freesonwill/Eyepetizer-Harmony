@@ -1,4 +1,4 @@
-package com.freesonwill.eyeptizer;
+package com.freesonwill.eyepetizer;
 
 import ohos.aafwk.ability.AbilityPackage;
 

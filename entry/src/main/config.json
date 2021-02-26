@@ -14,7 +14,7 @@
   },
   "deviceConfig": {},
   "module": {
-    "package": "com.freesonwill.eyeptizer",
+    "package": "com.freesonwill.eyepetizer",
     "name": ".MyApplication",
     "deviceType": [
       "phone"
@@ -37,7 +37,7 @@
           }
         ],
         "orientation": "unspecified",
-        "name": "com.freesonwill.eyeptizer.MainAbility",
+        "name": "com.freesonwill.eyepetizer.MainAbility",
         "icon": "$media:ic_app",
         "description": "$string:mainability_description",
         "label": "Eyeptizer",

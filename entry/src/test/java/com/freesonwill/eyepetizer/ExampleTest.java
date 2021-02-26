@@ -1,4 +1,4 @@
-package com.freesonwill.eyeptizer;
+package com.freesonwill.eyepetizer;
 
 import org.junit.Test;
 

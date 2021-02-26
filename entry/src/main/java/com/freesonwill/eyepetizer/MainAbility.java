@@ -1,9 +1,8 @@
-package com.freesonwill.eyeptizer;
+package com.freesonwill.eyepetizer;
 
-import com.freesonwill.eyeptizer.slice.MainAbilitySlice;
+import com.freesonwill.eyepetizer.slice.MainAbilitySlice;
 import ohos.aafwk.ability.Ability;
 import ohos.aafwk.content.Intent;
-import ohos.aafwk.content.Operation;
 
 public class MainAbility extends Ability {
     @Override
